@@ -3,6 +3,7 @@ Clade3 NosZ discovery codes
 
 This repository contains code required for reproduce the analyses inlcuded for identification of clade III NosZ
 
+# Desulfitobacterium genomes are available from NCBI database and are compiled in folder Desulfitobacterium genome.
 
 # Functional annotation using emapper, making the annotation and gff file available.
 
