@@ -14,3 +14,8 @@ for filename in *.fasta; do base=${filename}; emapper.py -m diamond --itype geno
 python gff_extract.py -i input_directory -o output directory --prefix NosZ --before 4 --after 5 --target K00376
 
 #4 Use the resource in folder Nos_GENE_CLUSTER to visualize Nos gene cluster encoded on Desulfitobacterium genomes
+
+
+# Workflow to construct closed/circular genomes are documented in Circularize**.py
+
+#monomer2dimer.py is a script to duplicate amino acid sequence, which fullfills the data requirement of ColabFold
