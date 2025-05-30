@@ -18,4 +18,4 @@ python gff_extract.py -i input_directory -o output directory --prefix NosZ --bef
 
 # Workflow to construct closed/circular genomes are documented in Circularize**.py
 
-#monomer2dimer.py is a script to duplicate amino acid sequence, which fullfills the data requirement of ColabFold
+#5 monomer2dimer.py is a script to duplicate amino acid sequence, which fullfills the data requirement of ColabFold
