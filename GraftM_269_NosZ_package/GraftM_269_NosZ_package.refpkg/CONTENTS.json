@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "create_date": "2024-02-10 22:18:43",
+        "format_version": "1.1",
+        "locus": "/tmp/tmpt57fn79q/graftM_269NosZ"
+    },
+    "files": {
+        "phylo_model": "phylo_modelak5xb0wl.json",
+        "aln_fasta": "graftM_269NosZ_deduplicated_aligned.fasta",
+        "seq_info": "graftM_269NosZ_seqinfo.csv",
+        "taxonomy": "graftM_269NosZ_taxonomy.csv",
+        "tree": "tree6n5jt1vj.tre",
+        "tree_stats": "graftmk60r9vfb.tree_log"
+    },
+    "md5": {
+        "phylo_model": "72b25a2b3dbc06b32725f9e8dd6de0bb",
+        "aln_fasta": "a509439b51a131ec57988b0465eedcfa",
+        "seq_info": "739705b6674c8ba2321cbf6c87182534",
+        "taxonomy": "63847361e1d2e9c093694cc585ecbd58",
+        "tree": "76b9549878f3a1f449b980d9490c8774",
+        "tree_stats": "a155b9362aa28a52f205da5c880c2572"
+    },
+    "log": [
+        "Rerooted",
+        "Stripped refpkg (removed 0 files)",
+        "Loaded initial files into empty refpkg"
+    ],
+    "rollback": {
+        "metadata": {
+            "create_date": "2024-02-10 22:18:43",
+            "format_version": "1.1",
+            "locus": "/tmp/tmpt57fn79q/graftM_269NosZ"
+        },
+        "files": {
+            "phylo_model": "phylo_modelak5xb0wl.json",
+            "aln_fasta": "graftM_269NosZ_deduplicated_aligned.fasta",
+            "seq_info": "graftM_269NosZ_seqinfo.csv",
+            "taxonomy": "graftM_269NosZ_taxonomy.csv",
+            "tree": "graftmpnl1qn2y.tree",
+            "tree_stats": "graftmk60r9vfb.tree_log"
+        },
+        "md5": {
+            "phylo_model": "72b25a2b3dbc06b32725f9e8dd6de0bb",
+            "aln_fasta": "a509439b51a131ec57988b0465eedcfa",
+            "seq_info": "739705b6674c8ba2321cbf6c87182534",
+            "taxonomy": "63847361e1d2e9c093694cc585ecbd58",
+            "tree": "d0d138754aafcac656349e772945b0e7",
+            "tree_stats": "a155b9362aa28a52f205da5c880c2572"
+        },
+        "rollback": null
+    },
+    "rollforward": null
+}
