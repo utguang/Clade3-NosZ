@@ -1,0 +1,1 @@
+{"graftm_package_version": 3, "align_hmm": "graftmseirjhpv_align.hmm", "search_hmms": ["graftmcziub23l_search.hmm"], "refpkg": "graftM_NosZ.gpkg.refpkg", "trusted_cutoff": false, "range": 945.8587360594796, "unaligned_sequence_database": "graftM_269NosZ.fasta", "diamond_database": "graftM_269NosZ.dmnd"}
