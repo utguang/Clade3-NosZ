@@ -7,7 +7,7 @@ This repository contains code required for reproduce the analyses inlcuded for i
 
 #2 Functional annotation using emapper, making the annotation and gff file available.
 
-for filename in *.fasta; do base=${filename}; emapper.py -m diamond --itype genome --no_file_comments -i $filename --output_dir emapper -o  $filename --decorate_gff yes --cpu 56 --override & done
+for filename in *.fasta; do base=${filename}; emapper.py -m diamond --itype genome --no_file_comments -i $filename --output_dir emapper -o  $filename --decorate_gff yes --cpu 56 --genepred prodigal --override & done
 
 #3 Using the gff_extract to withdraw the positions of 4 genes right before and 5 genes right after the target nosZ gene (K00376)
 
