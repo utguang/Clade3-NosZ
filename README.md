@@ -20,3 +20,6 @@ python gff_extract.py -i input_directory -o output directory --prefix NosZ --bef
 # Workflow to construct closed/circular genomes are documented in Circularize**.py
 
 # The GraftM folder contains hmm file and taxonomy files for 269 NosZ sequences
+
+# Update on May 26, 2026
+The previous version of GraftM NosZ has corrupted, and a new version has been generated. The GraftM algorithm has automatically reroot the tree already, and I looked into this, the node ID refer to clade I, II and III are 514, 192, and 381, respectively.
